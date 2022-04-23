@@ -2,8 +2,7 @@
 // import { StyleSheet, Text, View } from 'react-native';
 // import { AppRegistry } from 'react-native';
 import * as React from 'react';
-import { DefaultTheme, Provider as PaperProvider, Button } from 'react-native-paper';
-import { Avatar, Card, Title, Paragraph, TextInput } from 'react-native-paper';
+import { DefaultTheme, Button, Avatar, Card, Title, Paragraph, TextInput} from 'react-native-paper';
 import {View} from 'react-native'
 // import Test from 'Test';
 
